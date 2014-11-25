@@ -7,4 +7,6 @@ The way that it works is simple: when some research topic blow up in my mind, I 
 
 I don't plan to work on such ideas in my next free time. 
 
-Instead, I brainstorm on them. In particular, I try to find good reasons to put effort and time on them (e.g. is it an interesting problem? does someone have done it before?). If the hypothesis is not valid, I throw the topic away.
+Instead, I brainstorm on them. In particular, I try to find good reasons to put effort on them (e.g. is it hard? is it an interesting problem? does someone have done it before?). Based on the answers for such questions, I decide if I throw the topic away, or I will invest my time on it.
+
+Do you want to work with me in one of these topics? Let me know.
